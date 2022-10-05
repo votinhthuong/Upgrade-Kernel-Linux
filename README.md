@@ -18,11 +18,11 @@
 
 **Step 5: Install New CentOS Kernel Version**
 
-<sub>***To install the latest mainline kernel:***</sub>
+***To install the latest mainline kernel:***
 
 *sudo yum --enablerepo=elrepo-kernel install kernel-ml*
 
-<sub>***To install the latest long-term support kernel:***</sub>
+***To install the latest long-term support kernel:***
 
 *sudo yum --enablerepo=elrepo-kernel install kernel-lt*
 
