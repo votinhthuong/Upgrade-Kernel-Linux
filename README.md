@@ -1,4 +1,4 @@
-Step 1: Check Your Current Kernel Version
+**Step 1: Check Your Current Kernel Version
 
 *uname -msr*
 
