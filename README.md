@@ -1,6 +1,6 @@
 Step 1: Check Your Current Kernel Version
 
-uname -msr
+**uname -msr
 
 Step 2: Update CentOS Repositories
 
